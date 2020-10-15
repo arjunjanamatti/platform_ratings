@@ -1,0 +1,7 @@
+From a dataset containing reviews from numerous websites, I'm looking for someone to help us find the following: 
+Total Social Star = Average of All Reviews Ratings
+How stars over time, yearly (line graphs) - per each website and together = Visualization of which years and months had the highest and lowest ratings -- Contributing Factors(key words/phrases) for lowest/highest years/months
+Clustering and Sensitivity analysis determine what the customer with good reviews got from the restaurant and what are the contributing factors towards happiness/unhappiness of the customers(why the customer left a good or bad review for a product).
+Detailed EDA analysis --- understand the strength and weakness---developing a strategy to improve weakness and promote strengths.
+Recommendations what to get based on positive reviews and what not to get based on negative reviews
+
